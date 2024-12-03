@@ -199,7 +199,7 @@ El presupuesto total para trabajar en un proyecto de 71 horas, con base en el Sa
 ---
 ### **9. Algoritmo**
 
-[Ver el código principal aquí](./Codigosusadosenelproyecto/codigoprincipal.py)
+[Ver el código principal aquí](./Codigos_usados_en_el_proyecto/codigo_principal.py)
 
 ### **10. Manual de usuario**
 
